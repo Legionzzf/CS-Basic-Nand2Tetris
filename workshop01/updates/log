@@ -1,0 +1,211 @@
+200729-220102 Modified: YWFjYWE1OGE0ZjM1MzU5NzA1YWI4OTViYzk1ZDA1ODBhNWZlNThjYiAgLi8uRFNfU3RvcmUKZTM0OTgxMjAzNDk1NTJlMGQ3NjZkNzdiYTU5YmFlYzVjMTM0OTMzNCAgLi91cGRhdGVzLy5EU19TdG9yZQo2MjY0NGRjYTlhMjcyZjNlNjIwYjhkMTM2OTQ0OWFiY2Q3NTFlYzA4ICAuL3VwZGF0ZXMvd29ya3Nob3AwMS0yMDIwMDcyNC0xOTMyNDAuemlwCg==
+200729-220102 make install
+200729-220102 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200729-220102 updater:  Directory: ./bin
+200729-220102 updater:  Directory: ./originals
+200729-220102 updater:  Creating: ./Xor.cmp
+200729-220102 updater:  Creating: ./Mux.tst
+200729-220102 updater:  Creating: ./Not16.tst
+200729-220102 updater:  Creating: ./DMux8Way.tst
+200729-220102 updater:  Creating: ./DMux4Way.tst
+200729-220102 updater:  Creating: ./Mux4Way16.tst
+200729-220102 updater:  Creating: ./And.cmp
+200729-220102 updater:  Creating: ./bin/run-tests
+200729-220102 updater:  Creating: ./DMux.tst
+200729-220102 updater:  Creating: updates/Makefile
+200729-220102 updater:  Creating: ./Not.tst
+200729-220102 updater:  Creating: ./originals/Mux.hdl
+200729-220102 updater:  Creating: ./originals/Not16.hdl
+200729-220102 updater:  Creating: ./originals/Mux4Way16.hdl
+200729-220102 updater:  Creating: ./originals/DMux4Way.hdl
+200729-220102 updater:  Creating: ./originals/DMux8Way.hdl
+200729-220102 updater:  Creating: ./originals/DMux.hdl
+200729-220102 updater:  Creating: ./originals/Mux8Way16.hdl
+200729-220102 updater:  Creating: ./originals/Not.hdl
+200729-220102 updater:  Creating: ./originals/Or16.hdl
+200729-220102 updater:  Creating: ./originals/Or8Way.hdl
+200729-220102 updater:  Creating: ./originals/Or.hdl
+200729-220102 updater:  Creating: ./originals/Mux16.hdl
+200729-220102 updater:  Creating: ./originals/And16.hdl
+200729-220102 updater:  Creating: ./originals/Xor.hdl
+200729-220102 updater:  Creating: ./originals/And.hdl
+200729-220102 updater:  Creating: ./Mux8Way16.tst
+200729-220102 updater:  Creating: ./Mux16.cmp
+200729-220102 updater:  Creating: ./And16.cmp
+200729-220102 updater:  Creating: ./Or16.tst
+200729-220102 updater:  Creating: ./Or.tst
+200729-220102 updater:  Creating: ./Or8Way.tst
+200729-220102 updater:  Creating: ./Mux8Way16.cmp
+200729-220102 updater:  Creating: ./Mux16.tst
+200729-220102 updater:  Creating: ./Not.cmp
+200729-220102 updater:  Creating: ./Or.cmp
+200729-220102 updater:  Creating: ./Or8Way.cmp
+200729-220102 updater:  Creating: ./Or16.cmp
+200729-220102 updater:  Creating: ./And16.tst
+200729-220102 updater:  Creating: ./Not16.cmp
+200729-220102 updater:  Creating: ./Xor.tst
+200729-220102 updater:  Creating: ./Mux.cmp
+200729-220102 updater:  Creating: ./DMux.cmp
+200729-220102 updater:  Creating: ./And.tst
+200729-220102 updater:  Creating: ./Mux4Way16.cmp
+200729-220102 updater:  Creating: ./DMux8Way.cmp
+200729-220102 updater:  Creating: ./DMux4Way.cmp
+200729-220102 updater:  Made bin/run-tests executable
+200729-220102 updater:  Removing MacOS quarantine flags from the executables
+200729-220102 updater:  Creating: Mux.hdl
+200729-220102 updater:  Creating: Not16.hdl
+200729-220102 updater:  Creating: Mux4Way16.hdl
+200729-220102 updater:  Creating: DMux4Way.hdl
+200729-220102 updater:  Creating: DMux8Way.hdl
+200729-220102 updater:  Creating: DMux.hdl
+200729-220102 updater:  Creating: Mux8Way16.hdl
+200729-220102 updater:  Creating: Not.hdl
+200729-220102 updater:  Creating: Or16.hdl
+200729-220102 updater:  Creating: Or8Way.hdl
+200729-220102 updater:  Creating: Or.hdl
+200729-220102 updater:  Creating: Mux16.hdl
+200729-220102 updater:  Creating: And16.hdl
+200729-220102 updater:  Creating: Xor.hdl
+200729-220102 updater:  Creating: And.hdl
+200729-220102 updater:  Updating: updates/README
+200729-220102 updater:  Update installed
+200729-220234 make 
+200729-220234 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200729-220251 make install
+200729-220251 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-101113 Modified: OTgyNmFhMTAxMWJjOTZmMDhmMjhiZTUwZjAzZTBkMDdlM2YxYzM2ZSAgLi91cGRhdGVzLy5EU19TdG9yZQo=
+200730-101113 make install
+200730-101113 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-101356 make 
+200730-101356 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-101404 make install
+200730-101404 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-101819 Modified: M2I2ZWRjOWFhMjEwMzU4MTQ5MmFmYWExNDA3MjAzMzUyNjBmODQ1MSAgLi8uRFNfU3RvcmUKYjE4MDA1ZWFhMGJkYjQ3MGYxMDQ0NGUzMTE5NTRlNWViNzdlZmRlNyAgLi91cGRhdGVzLy5EU19TdG9yZQo=
+200730-101819 make install
+200730-101819 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-103150 make install
+200730-103150 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-103246 make install
+200730-103246 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-103715 make install
+200730-103715 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-103726 make 
+200730-103726 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-103805 make install
+200730-103805 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-104540 Modified: OGJlMjdjM2JiNWQ1ZjkzNTYyZGJmYzA2NWFjNzBmMzBmNTAwMDA4MSAgLi9BbmQub3V0CmM4NzU1MTkwYzkyZmEwM2RmYjI1ODI2MTEyODNlNTNlZWU2MGMxZTQgIC4vLkRTX1N0b3JlCg==
+200730-104540 make 
+200730-104540 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-110141 Modified: MjAxN2QwOWE4NzE5OTA4YjU5MjA2MWE4YTFhNmE5MDc3YWU3ZmFlZSAgLi9Ob3QuaGRsCjhlYTBjZGM3NGRiMWE5OTIwZGM2Yjc0NGFhNTVmOTk4MzE4Mzc3NWMgIC4vLk5vdC5oZGwuc3dwCjZlOTQyMWY4MDhmNjY4YmU0MWViNmJjYTZhNzY1NWUwMjcwNzc3YWQgIC4vRE11eC5vdXQK
+200730-110141 make 
+200730-110141 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-110440 Modified: NmQ4YWQ1ZmRlNzdiNzYyZGJiZDQ4OTY4Mzg3YzdmMjMxMmQ4MTA2ZCAgLi9Ob3QuaGRsCg==
+200730-110440 make 
+200730-110440 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-111224 Modified: MTRiNDE5YTc1ZTA2ZTc1MmZlNmMyZDY1NTc4ZGIwNmQ5ODRmODdmNSAgLi9BbmQuaGRsCg==
+200730-111224 make 
+200730-111224 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-111248 make 
+200730-111248 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-120154 Modified: NmQ4YWQ1ZmRlNzdiNzYyZGJiZDQ4OTY4Mzg3YzdmMjMxMmQ4MTA2ZCAgLi9Ob3QuaGRsCg==
+200730-120154 make 
+200730-120154 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-132650 Modified: YWIxNzFlNDZkM2JhODkxYmY4YWMwMzA2YzI5MGUwM2I2ODIxZDlmNCAgLi8uRFNfU3RvcmUK
+200730-132650 make 
+200730-132650 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-133826 Modified: NzVjYjdhNDIwYWVhZDJkYjhiMDUyZThkN2U2MzI4MzljMWEyMDAyMiAgLi9Ob3QuaGRsCg==
+200730-133826 make 
+200730-133826 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-134146 make 
+200730-134146 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-134519 Modified: MTRiNDE5YTc1ZTA2ZTc1MmZlNmMyZDY1NTc4ZGIwNmQ5ODRmODdmNSAgLi9BbmQuaGRsCg==
+200730-134519 make 
+200730-134519 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-135037 Modified: YjA3MjU2ODg5YzkyMTc2ODgxNDM1NDI0MGM0Yjc5MDhjYjU2MmIyNyAgLi8uRFNfU3RvcmUK
+200730-135037 make 
+200730-135037 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-135147 make 
+200730-135147 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-141505 Modified: NTA5ZjUyYjA1Y2NkMGZiZmRjOTgwMmRkOWQ0OGRjMTg2MmVkZDI5MiAgLi9NdXguaGRsCjIzYjY1Y2U5MzNiMzIzNGY0YjlmNmUxMWJiYTdhM2QxMTc4YTFlOGIgIC4vTm90MTYuaGRsCjk0YjVhM2I2YjBhMTdhNzk0MDg3Mjc4ZDI0ZjM3NjFiMmEzNDhkYzcgIC4vTXV4NFdheTE2LmhkbApkY2E4MWYxMzhlMDhhNjc1ODQxN2JlZTc2Yzc0MDRmZGYyYTcwOTcwICAuLy5EU19TdG9yZQpmMWIxODQ1NDYyY2I2Y2YyOTY1NzgwMzMyMzY0YTY5Y2JmZDQ0MWRiICAuL0RNdXg0V2F5LmhkbAo2NGM2OTE0OGMzNTQxNDdlMzE1MWJlZjQwYzc4OTc4YWMxODU3ZmUxICAuL0RNdXg4V2F5LmhkbApkZjVkNjBhOTc4ZDY2YThiOWU5MjI2MzI1Y2FjZjM4YThlNDNmZWYxICAuL0RNdXguaGRsCjExNjA2MWQwNWFkNTZmOTM4YTNhZjg2YWQxOGFiMTUyM2ZkMDc1ZDEgIC4vTXV4OFdheTE2LmhkbAo3NWNiN2E0MjBhZWFkMmRiOGIwNTJlOGQ3ZTYzMjgzOWMxYTIwMDIyICAuL05vdC5oZGwKMDI0MDQ4NTc5OTczOTE4ODk5OTMxY2IwZTYyMTg3YTNmMTkzM2JmMSAgLi9PcjE2LmhkbAo3ZGYzNjMxYzk5ZDA3OTljMjkxNDk5ODE2NDhjOGIxODY0MTVkZDYzICAuL09yOFdheS5oZGwKYWFiOTk2Yzg5OTUwMjI3MTM5ZWFhMTVhMjcxMDZlMzdjNzJmZTI0MiAgLi9Pci5oZGwKZTM0OTgxMjAzNDk1NTJlMGQ3NjZkNzdiYTU5YmFlYzVjMTM0OTMzNCAgLi91cGRhdGVzLy5EU19TdG9yZQoxY2U4MDcwN2NkYjc3YWI1NTQ1MDRiYTk5MjEwMjhlNWNlZDdjMjhlICAuL011eDE2LmhkbAo0YjMzNTVkNjNhZDIyOGQ1NjlmMjgyNTQ1MTE2ZmY1MWQ2MDk5OWU1ICAuL0FuZDE2LmhkbAplYmVlZTA3MjNlNTk2ZDIzMmVmZjQ2YzcxYTVkMTU1OTYyZWI3ZjVmICAuL1hvci5oZGwKMTRiNDE5YTc1ZTA2ZTc1MmZlNmMyZDY1NTc4ZGIwNmQ5ODRmODdmNSAgLi9BbmQuaGRsCg==
+200730-141505 make install
+200730-141505 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-141505 updater:  Directory: ./bin
+200730-141505 updater:  Directory: ./originals
+200730-141505 updater:  Creating: ./Xor.cmp
+200730-141505 updater:  Creating: ./Mux.tst
+200730-141505 updater:  Creating: ./Not16.tst
+200730-141505 updater:  Creating: ./DMux8Way.tst
+200730-141505 updater:  Creating: ./DMux4Way.tst
+200730-141505 updater:  Creating: ./Mux4Way16.tst
+200730-141505 updater:  Creating: ./And.cmp
+200730-141505 updater:  Creating: ./bin/run-tests
+200730-141505 updater:  Creating: ./DMux.tst
+200730-141505 updater:  Creating: updates/Makefile
+200730-141505 updater:  Creating: ./Not.tst
+200730-141505 updater:  Creating: ./originals/Mux.hdl
+200730-141505 updater:  Creating: ./originals/Not16.hdl
+200730-141505 updater:  Creating: ./originals/Mux4Way16.hdl
+200730-141505 updater:  Creating: ./originals/DMux4Way.hdl
+200730-141505 updater:  Creating: ./originals/DMux8Way.hdl
+200730-141505 updater:  Creating: ./originals/DMux.hdl
+200730-141505 updater:  Creating: ./originals/Mux8Way16.hdl
+200730-141505 updater:  Creating: ./originals/Not.hdl
+200730-141505 updater:  Creating: ./originals/Or16.hdl
+200730-141505 updater:  Creating: ./originals/Or8Way.hdl
+200730-141505 updater:  Creating: ./originals/Or.hdl
+200730-141505 updater:  Creating: ./originals/Mux16.hdl
+200730-141505 updater:  Creating: ./originals/And16.hdl
+200730-141505 updater:  Creating: ./originals/Xor.hdl
+200730-141505 updater:  Creating: ./originals/And.hdl
+200730-141505 updater:  Creating: ./Mux8Way16.tst
+200730-141505 updater:  Creating: ./Mux16.cmp
+200730-141505 updater:  Creating: ./And16.cmp
+200730-141505 updater:  Creating: ./Or16.tst
+200730-141505 updater:  Creating: ./Or.tst
+200730-141505 updater:  Creating: ./Or8Way.tst
+200730-141505 updater:  Creating: ./Mux8Way16.cmp
+200730-141505 updater:  Creating: ./Mux16.tst
+200730-141505 updater:  Creating: ./Not.cmp
+200730-141505 updater:  Creating: ./Or.cmp
+200730-141505 updater:  Creating: ./Or8Way.cmp
+200730-141505 updater:  Creating: ./Or16.cmp
+200730-141505 updater:  Creating: ./And16.tst
+200730-141505 updater:  Creating: ./Not16.cmp
+200730-141505 updater:  Creating: ./Xor.tst
+200730-141505 updater:  Creating: ./Mux.cmp
+200730-141505 updater:  Creating: ./DMux.cmp
+200730-141505 updater:  Creating: ./And.tst
+200730-141505 updater:  Creating: ./Mux4Way16.cmp
+200730-141505 updater:  Creating: ./DMux8Way.cmp
+200730-141505 updater:  Creating: ./DMux4Way.cmp
+200730-141505 updater:  Made bin/run-tests executable
+200730-141505 updater:  Removing MacOS quarantine flags from the executables
+200730-141505 updater:  Updating: updates/README
+200730-141505 updater:  Update installed
+200730-141551 make 
+200730-141551 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-142011 make install
+200730-142011 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-155345 Modified: NTA5ZjUyYjA1Y2NkMGZiZmRjOTgwMmRkOWQ0OGRjMTg2MmVkZDI5MiAgLi93b3Jrc2hvcDAxL011eC5oZGwKMjNiNjVjZTkzM2IzMjM0ZjRiOWY2ZTExYmJhN2EzZDExNzhhMWU4YiAgLi93b3Jrc2hvcDAxL05vdDE2LmhkbAo1MDlmNTJiMDVjY2QwZmJmZGM5ODAyZGQ5ZDQ4ZGMxODYyZWRkMjkyICAuL3dvcmtzaG9wMDEvLnN2bi9wcmlzdGluZS81MC81MDlmNTJiMDVjY2QwZmJmZGM5ODAyZGQ5ZDQ4ZGMxODYyZWRkMjkyLnN2bi1iYXNlCjUxY2JjMDQ5YWIwY2VhMzYyNGJkNjU2MmZmZWNiYjJkNjE4ZmY0YTIgIC4vd29ya3Nob3AwMS8uc3ZuL3ByaXN0aW5lLzUxLzUxY2JjMDQ5YWIwY2VhMzYyNGJkNjU2MmZmZWNiYjJkNjE4ZmY0YTIuc3ZuLWJhc2UKOTRiNWEzYjZiMGExN2E3OTQwODcyNzhkMjRmMzc2MWIyYTM0OGRjNyAgLi93b3Jrc2hvcDAxLy5zdm4vcHJpc3RpbmUvOTQvOTRiNWEzYjZiMGExN2E3OTQwODcyNzhkMjRmMzc2MWIyYTM0OGRjNy5zdm4tYmFzZQowMjQwNDg1Nzk5NzM5MTg4OTk5MzFjYjBlNjIxODdhM2YxOTMzYmYxICAuL3dvcmtzaG9wMDEvLnN2bi9wcmlzdGluZS8wMi8wMjQwNDg1Nzk5NzM5MTg4OTk5MzFjYjBlNjIxODdhM2YxOTMzYmYxLnN2bi1iYXNlCmRmNWQ2MGE5NzhkNjZhOGI5ZTkyMjYzMjVjYWNmMzhhOGU0M2ZlZjEgIC4vd29ya3Nob3AwMS8uc3ZuL3ByaXN0aW5lL2RmL2RmNWQ2MGE5NzhkNjZhOGI5ZTkyMjYzMjVjYWNmMzhhOGU0M2ZlZjEuc3ZuLWJhc2UKZWJlZTAwMWQ4ZDJkMWIzMDEyZTFhM2RhNTA2OTYwN2VlNTdmYWI4MSAgLi93b3Jrc2hvcDAxLy5zdm4vcHJpc3RpbmUvZWIvZWJlZTAwMWQ4ZDJkMWIzMDEyZTFhM2RhNTA2OTYwN2VlNTdmYWI4MS5zdm4tYmFzZQplYmVlZTA3MjNlNTk2ZDIzMmVmZjQ2YzcxYTVkMTU1OTYyZWI3ZjVmICAuL3dvcmtzaG9wMDEvLnN2bi9wcmlzdGluZS9lYi9lYmVlZTA3MjNlNTk2ZDIzMmVmZjQ2YzcxYTVkMTU1OTYyZWI3ZjVmLnN2bi1iYXNlCjRiMzM1NWQ2M2FkMjI4ZDU2OWYyODI1NDUxMTZmZjUxZDYwOTk5ZTUgIC4vd29ya3Nob3AwMS8uc3ZuL3ByaXN0aW5lLzRiLzRiMzM1NWQ2M2FkMjI4ZDU2OWYyODI1NDUxMTZmZjUxZDYwOTk5ZTUuc3ZuLWJhc2UKMTE2MDYxZDA1YWQ1NmY5MzhhM2FmODZhZDE4YWIxNTIzZmQwNzVkMSAgLi93b3Jrc2hvcDAxLy5zdm4vcHJpc3RpbmUvMTEvMTE2MDYxZDA1YWQ1NmY5MzhhM2FmODZhZDE4YWIxNTIzZmQwNzVkMS5zdm4tYmFzZQo3ZGYzNjMxYzk5ZDA3OTljMjkxNDk5ODE2NDhjOGIxODY0MTVkZDYzICAuL3dvcmtzaG9wMDEvLnN2bi9wcmlzdGluZS83ZC83ZGYzNjMxYzk5ZDA3OTljMjkxNDk5ODE2NDhjOGIxODY0MTVkZDYzLnN2bi1iYXNlCjc1Y2I3YTQyMGFlYWQyZGI4YjA1MmU4ZDdlNjMyODM5YzFhMjAwMjIgIC4vd29ya3Nob3AwMS8uc3ZuL3ByaXN0aW5lLzc1Lzc1Y2I3YTQyMGFlYWQyZGI4YjA1MmU4ZDdlNjMyODM5YzFhMjAwMjIuc3ZuLWJhc2UKNjI2NDRkY2E5YTI3MmYzZTYyMGI4ZDEzNjk0NDlhYmNkNzUxZWMwOCAgLi93b3Jrc2hvcDAxLy5zdm4vcHJpc3RpbmUvNjIvNjI2NDRkY2E5YTI3MmYzZTYyMGI4ZDEzNjk0NDlhYmNkNzUxZWMwOC5zdm4tYmFzZQo2NGM2OTE0OGMzNTQxNDdlMzE1MWJlZjQwYzc4OTc4YWMxODU3ZmUxICAuL3dvcmtzaG9wMDEvLnN2bi9wcmlzdGluZS82NC82NGM2OTE0OGMzNTQxNDdlMzE1MWJlZjQwYzc4OTc4YWMxODU3ZmUxLnN2bi1iYXNlCmQ1NDllOTBhMDY1MTc3NDk1MDZkMmMyZjhhNTgzOTdiYWU3NDUyODkgIC4vd29ya3Nob3AwMS8uc3ZuL3ByaXN0aW5lL2Q1L2Q1NDllOTBhMDY1MTc3NDk1MDZkMmMyZjhhNTgzOTdiYWU3NDUyODkuc3ZuLWJhc2UKYWFiOTk2Yzg5OTUwMjI3MTM5ZWFhMTVhMjcxMDZlMzdjNzJmZTI0MiAgLi93b3Jrc2hvcDAxLy5zdm4vcHJpc3RpbmUvYWEvYWFiOTk2Yzg5OTUwMjI3MTM5ZWFhMTVhMjcxMDZlMzdjNzJmZTI0Mi5zdm4tYmFzZQpkZWJkYmQ2NWQwOGUzN2VhZWYyNzk5MmMwNzBmOWY2YzY2NmM5OGM4ICAuL3dvcmtzaG9wMDEvLnN2bi9wcmlzdGluZS9kZS9kZWJkYmQ2NWQwOGUzN2VhZWYyNzk5MmMwNzBmOWY2YzY2NmM5OGM4LnN2bi1iYXNlCmYxYjE4NDU0NjJjYjZjZjI5NjU3ODAzMzIzNjRhNjljYmZkNDQxZGIgIC4vd29ya3Nob3AwMS8uc3ZuL3ByaXN0aW5lL2YxL2YxYjE4NDU0NjJjYjZjZjI5NjU3ODAzMzIzNjRhNjljYmZkNDQxZGIuc3ZuLWJhc2UKMjNiNjVjZTkzM2IzMjM0ZjRiOWY2ZTExYmJhN2EzZDExNzhhMWU4YiAgLi93b3Jrc2hvcDAxLy5zdm4vcHJpc3RpbmUvMjMvMjNiNjVjZTkzM2IzMjM0ZjRiOWY2ZTExYmJhN2EzZDExNzhhMWU4Yi5zdm4tYmFzZQoxY2U4MDcwN2NkYjc3YWI1NTQ1MDRiYTk5MjEwMjhlNWNlZDdjMjhlICAuL3dvcmtzaG9wMDEvLnN2bi9wcmlzdGluZS8xYy8xY2U4MDcwN2NkYjc3YWI1NTQ1MDRiYTk5MjEwMjhlNWNlZDdjMjhlLnN2bi1iYXNlCjE0YjQxOWE3NWUwNmU3NTJmZTZjMmQ2NTU3OGRiMDZkOTg0Zjg3ZjUgIC4vd29ya3Nob3AwMS8uc3ZuL3ByaXN0aW5lLzE0LzE0YjQxOWE3NWUwNmU3NTJmZTZjMmQ2NTU3OGRiMDZkOTg0Zjg3ZjUuc3ZuLWJhc2UKYWQ1NTJlNmRjMDU3ZDFkODI1YmY0OWRmNzlkNmI5OGViYTg0NmViZSAgLi93b3Jrc2hvcDAxLy5zdm4vZW50cmllcwphZDU1MmU2ZGMwNTdkMWQ4MjViZjQ5ZGY3OWQ2Yjk4ZWJhODQ2ZWJlICAuL3dvcmtzaG9wMDEvLnN2bi9mb3JtYXQKM2ZmMzlhODU5Nzc4YTNhMDA3MzdkODk5M2JmYTNlYzQyZTM2ZjBjYiAgLi93b3Jrc2hvcDAxLy5zdm4vd2MuZGIKZGEzOWEzZWU1ZTZiNGIwZDMyNTViZmVmOTU2MDE4OTBhZmQ4MDcwOSAgLi93b3Jrc2hvcDAxLy5zdm4vd2MuZGItam91cm5hbAo5NGI1YTNiNmIwYTE3YTc5NDA4NzI3OGQyNGYzNzYxYjJhMzQ4ZGM3ICAuL3dvcmtzaG9wMDEvTXV4NFdheTE2LmhkbApmMWIxODQ1NDYyY2I2Y2YyOTY1NzgwMzMyMzY0YTY5Y2JmZDQ0MWRiICAuL3dvcmtzaG9wMDEvRE11eDRXYXkuaGRsCjY0YzY5MTQ4YzM1NDE0N2UzMTUxYmVmNDBjNzg5NzhhYzE4NTdmZTEgIC4vd29ya3Nob3AwMS9ETXV4OFdheS5oZGwKZGY1ZDYwYTk3OGQ2NmE4YjllOTIyNjMyNWNhY2YzOGE4ZTQzZmVmMSAgLi93b3Jrc2hvcDAxL0RNdXguaGRsCmQ1NDllOTBhMDY1MTc3NDk1MDZkMmMyZjhhNTgzOTdiYWU3NDUyODkgIC4vd29ya3Nob3AwMS9NYWtlZmlsZQoxMTYwNjFkMDVhZDU2ZjkzOGEzYWY4NmFkMThhYjE1MjNmZDA3NWQxICAuL3dvcmtzaG9wMDEvTXV4OFdheTE2LmhkbAo3NWNiN2E0MjBhZWFkMmRiOGIwNTJlOGQ3ZTYzMjgzOWMxYTIwMDIyICAuL3dvcmtzaG9wMDEvTm90LmhkbAowMjQwNDg1Nzk5NzM5MTg4OTk5MzFjYjBlNjIxODdhM2YxOTMzYmYxICAuL3dvcmtzaG9wMDEvT3IxNi5oZGwKN2RmMzYzMWM5OWQwNzk5YzI5MTQ5OTgxNjQ4YzhiMTg2NDE1ZGQ2MyAgLi93b3Jrc2hvcDAxL09yOFdheS5oZGwKYWFiOTk2Yzg5OTUwMjI3MTM5ZWFhMTVhMjcxMDZlMzdjNzJmZTI0MiAgLi93b3Jrc2hvcDAxL09yLmhkbAo2MjY0NGRjYTlhMjcyZjNlNjIwYjhkMTM2OTQ0OWFiY2Q3NTFlYzA4ICAuL3dvcmtzaG9wMDEvdXBkYXRlcy93b3Jrc2hvcDAxLTIwMjAwNzI0LTE5MzI0MC56aXAKZWJlZTAwMWQ4ZDJkMWIzMDEyZTFhM2RhNTA2OTYwN2VlNTdmYWI4MSAgLi93b3Jrc2hvcDAxL3VwZGF0ZXMvdXBkYXRlci5iYXNoCmRlYmRiZDY1ZDA4ZTM3ZWFlZjI3OTkyYzA3MGY5ZjZjNjY2Yzk4YzggIC4vd29ya3Nob3AwMS91cGRhdGVzL2luc3RhbGxlci5iYXNoCjFjZTgwNzA3Y2RiNzdhYjU1NDUwNGJhOTkyMTAyOGU1Y2VkN2MyOGUgIC4vd29ya3Nob3AwMS9NdXgxNi5oZGwKNGIzMzU1ZDYzYWQyMjhkNTY5ZjI4MjU0NTExNmZmNTFkNjA5OTllNSAgLi93b3Jrc2hvcDAxL0FuZDE2LmhkbAplYmVlZTA3MjNlNTk2ZDIzMmVmZjQ2YzcxYTVkMTU1OTYyZWI3ZjVmICAuL3dvcmtzaG9wMDEvWG9yLmhkbAoxNGI0MTlhNzVlMDZlNzUyZmU2YzJkNjU1NzhkYjA2ZDk4NGY4N2Y1ICAuL3dvcmtzaG9wMDEvQW5kLmhkbAo=
+200730-155345 make 
+200730-155345 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-155404 make install
+200730-155404 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-163007 make install
+200730-163007 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-163042 make 
+200730-163042 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-163954 Modified: ZGI4NWFhODYwMmM5NWIxOGU4N2Q0YTk4YzFjN2QzZDQwZWY4YTZjMCAgLi9Ob3QuaGRsCg==
+200730-163954 make 
+200730-163954 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-164051 make 
+200730-164051 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-172541 Modified: NzUwY2QwYWNiOTU3Y2E2NGZhMGZjN2Q0ZWUzNDM1MTE2YjgyZjgzMyAgLi9BbmQub3V0CjM0ZWZkMWFlNDIxMTQ2ZmViYmYyMTZmZjBkMmRjYTFmNGFmNThiMTEgIC4vQW5kLmhkbAo=
+200730-172541 make 
+200730-172541 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-172645 Modified: ZjlhNmUxOGNjMDg0M2UyYzEzMGZmOGY2MTYzN2I5NjYyZGU1OTBiZCAgLi9BbmQuaGRsCg==
+200730-172645 make 
+200730-172645 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
+200730-172947 Modified: MTRiNDE5YTc1ZTA2ZTc1MmZlNmMyZDY1NTc4ZGIwNmQ5ODRmODdmNSAgLi9BbmQuaGRsCg==
+200730-172947 make 
+200730-172947 SVN user: a1806522, repository path: 2020/s2/cs/workshop01
